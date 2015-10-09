@@ -1,4 +1,4 @@
->>>>>>>>>>>#->Christine Rene Smith<-                                       
+#Christine Rene Smith                                       
 8431 Wabash Ave. S. ◆ Seattle, WA 98118 ◆ (206) 371-4310    
 christinerenesmith@gmail.com.com ◆ [@xinerenesmith](https://twitter.com/xinerenesmith)   
 
