@@ -3,7 +3,7 @@
 christinerenesmith@gmail.com.com ◆ [@xinerenesmith](https://twitter.com/xinerenesmith)   
 
 #####Aspiring Developer  
- Proto-developer able to self-teach, learns best through immersion and kinesthetic means. Brings a diverse background of creative writing, visual design, and the practicality of the medical profession to augment her future coding skills. Excels as part of a team and aspires to be a leader by inspiring creativity and self confidence in those around her. 
+Proto-developer able to self-teach, learns best through immersion and kinesthetic means. Brings a diverse background of creative writing, visual design, and the practicality of the medical profession to augment her future coding skills. Excels as part of a team and aspires to be a leader by inspiring creativity and self confidence in those around her. 
 
 #####Technical Toolbox  
 Languages:  Conversational HTML                 
@@ -35,7 +35,7 @@ BA, English Literature and Creative Writing  Graduated 6/2005
   *Razorgirl Press* — Seattle, WA  
 **Creative Manager/Developmental Editor**, 2014-2015    
   Publishing exquisite prose, fantastical adventure, and vivid otherworlds     
->◆ Co-created publishing company with unique vision for new authors  
+◆ Co-created publishing company with unique vision for new authors  
 ◆ Established deadline calendar for authors and worked through plot, voice, and character development  
 ◆ Organized group workshops for novels in progress  
 ◆ Made lead aesthetic choices in regards to branding and book covers  
