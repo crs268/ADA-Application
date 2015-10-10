@@ -1,13 +1,16 @@
 #Christine Rene Smith                                       
-8431 Wabash Ave. S. ◆ Seattle, WA 98118 ◆ (206) 371-4310    
+8431 Wabash Ave. S., Seattle, WA 98118 ◆ (206) 371-4310    
 christinerenesmith@gmail.com.com ◆ [@xinerenesmith](https://twitter.com/xinerenesmith)   
 
 #####Aspiring Developer  
 Proto-developer able to self-teach, learns best through immersion and kinesthetic means. Brings a diverse background of creative writing, visual design, and the practicality of the medical profession to augment her future coding skills. Excels as part of a team and aspires to be a leader by inspiring creativity and self confidence in those around her. 
 
-#####Technical Toolbox  
-Languages:  Conversational HTML                 
-Software Proficiency: MS Office, Mac OSX, Apple ios8, Wordpress, Adobe InDesign, Photoshop, Microsoft Excel, Oracle                        R12 and 11i  
+#####Technical Toolbox   
+Languages:  Conversational HTML   
+  
+Software Proficiency:   
+>MS Office, Mac OSX, Apple ios8, Wordpress, Adobe InDesign,   
+Photoshop, Microsoft Excel, Oracle R12 and 11i  
 
 #####Education
 
@@ -22,18 +25,19 @@ BA, English Literature and Creative Writing  Graduated 6/2005
 
 #####Publications & Awards
 ◆ 491 Literary journal  
-*Neville, Says Bernard*,  2015  
+ *Neville, Says Bernard*,  2015  
 ◆ Widener University National Undergraduate Literary Journal  
-*Butchering*,  2004  
+ *Butchering*,  2004  
 ◆ Widener University National Undergraduate Literary Journal  
-*Where the Broken People Go*,  2003  
+ *Where the Broken People Go*,  2003  
 ◆ Young Illinois Poets Award   
-*Ground to Gain*, 1999
+ *Ground to Gain*, 1999
 
 #####Professional Experience
 
-  *Razorgirl Press* — Seattle, WA  
-**Creative Manager/Developmental Editor**, 2014-2015    
+  
+**Creative Manager/Developmental Editor**, 2014-2015   
+*Razorgirl Press* — Seattle, WA 
   Publishing exquisite prose, fantastical adventure, and vivid otherworlds     
 ◆ Co-created publishing company with unique vision for new authors  
 ◆ Established deadline calendar for authors and worked through plot, voice, and character development  
