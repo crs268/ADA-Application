@@ -16,23 +16,23 @@ Photoshop, Microsoft Excel, Oracle R12 and 11i
 #####Education
 
 University of Washington, Bothell — Bothell, WA
-MFA, Creative Writing and Poetics  Graduated 6/2015
+>MFA, Creative Writing and Poetics  Graduated 6/2015
 
 COCONINO COMMUNITY COLLEGE — Flagstaff, AZ
-Certified Nursing Assistant  Certificated 9/2010
+>Certified Nursing Assistant  Certificated 9/2010
 
 Seattle Pacific University — Seattle, WA
-BA, English Literature and Creative Writing  Graduated 6/2005
+>BA, English Literature and Creative Writing  Graduated 6/2005
 
 #####Publications & Awards
 ◆ 491 Literary journal  
- *Neville, Says Bernard*,  2015  
+>*Neville, Says Bernard*,  2015  
 ◆ Widener University National Undergraduate Literary Journal  
- *Butchering*,  2004  
+>*Butchering*,  2004  
 ◆ Widener University National Undergraduate Literary Journal  
- *Where the Broken People Go*,  2003  
+>*Where the Broken People Go*,  2003  
 ◆ Young Illinois Poets Award   
- *Ground to Gain*, 1999
+>*Ground to Gain*, 1999
 
 #####Professional Experience
 
