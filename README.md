@@ -5,8 +5,9 @@ christinerenesmith@gmail.com.com ◆ [@xinerenesmith](https://twitter.com/xinere
 #####Aspiring Developer  
 Proto-developer able to self-teach, learns best through immersion and kinesthetic means. Brings a diverse background of creative writing, visual design, and the practicality of the medical profession to augment her future coding skills. Excels as part of a team and aspires to be a leader by inspiring creativity and self confidence in those around her. 
 
-#####Technical Toolbox   
-Languages:  Conversational HTML   
+#####Technical Toolbox     
+Languages:  
+>Conversational HTML   
   
 Software Proficiency:   
 >MS Office, Mac OSX, Apple ios8, Wordpress, Adobe InDesign,   
