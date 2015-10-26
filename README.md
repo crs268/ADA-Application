@@ -62,24 +62,24 @@ Visual marketing with an emphasis on branding for businesses and custom graphic 
 ◆ Managed daily and monthly business taxes    
 
 Comfort Keepers of Flagstaff — Flagstaff, AZ  
-Comfort Care Provider/Scheduler, 2009-2011  
-Providers of in-home care to help maintain independent living  
+**Comfort Care Provider/Scheduler**, 2009-2011  
+*Providers of in-home care to help maintain independent living*  
 >◆ Create schedules for a staff of more than 50 using custom scheduling software    
 ◆ Served as primary caregiver for clients with disabilities  
 ◆ Managed multi-line telephone for Comfort Keepers headquarters   
 ◆ Monitored well being of clients and kept care-team members apprised of client condition   
 
 Seattle Pacific University- Lingua Arts and Literary Journal — Seattle, WA   
-Editor-In-Chief, 2002-2005  
->◆ University Arts and Literary Journal   
-◆ Self-taught Adobe InDesign to create Lingua layout  
+**Editor-In-Chief**, 2002-2005  
+*University Arts and Literary Journal*   
+>◆ Self-taught Adobe InDesign to create Lingua layout  
 ◆ Wrote and designed HTML newsletter  
 ◆ Supervised team of editors during meetings and event planning  
 ◆ Cultivated and directed a strong volunteer base   
 
 Seattle Department of Neighborhoods — Seattle, WA  
-Administrative Assistant, 2002-2005   
->◆ Liaison between city government and citizens  
-◆ Created HTML newsletter   
+**Administrative Assistant**, 2002-2005   
+*Liaison between city government and citizens*  
+>◆ Created HTML newsletter   
 ◆ Analyzed data from city research and created reports for meetings   
 ◆ Organized neighborhood support for park builds and local events   
