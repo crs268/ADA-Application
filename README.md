@@ -34,11 +34,10 @@ Seattle Pacific University — Seattle, WA
 ◆ Young Illinois Poets Award   
 *Ground to Gain*, 1999
 
-#####Professional Experience
-
-  
+#####Professional Experience  
+   
 **Creative Manager/Developmental Editor**, 2014-2015   
-*Razorgirl Press* — Seattle, WA 
+*Razorgirl Press* — Seattle, WA   
   Publishing exquisite prose, fantastical adventure, and vivid otherworlds     
 >◆ Co-created publishing company with unique vision for new authors     
 ◆ Established deadline calendar for authors and worked through plot, voice, and character development    
@@ -46,7 +45,7 @@ Seattle Pacific University — Seattle, WA
 ◆ Made lead aesthetic choices in regards to branding and book covers     
 
 Ricoh USA — Tempe, AZ    
-Customer Biller, 2012-2013  
+**Customer Biller, 2012-2013  
 A Global technology company    
 >◆ Utilized Oracle R12 and 11i to manage customer accounts   
 ◆ Troubleshot customer requests and solved customer issues with tenacity and efficiently   
@@ -54,8 +53,8 @@ A Global technology company
 ◆ Exhibited quality problem-solving and decision-making skills    
 
 Visage Creative Business Services — Mesa, AZ   
-Executive Assistant/Copywriter, 2011-2013   
-Visual marketing with an emphasis on branding for businesses and custom graphic design    
+**Executive Assistant/Copywriter**, 2011-2013   
+*Visual marketing with an emphasis on branding for businesses and custom graphic design*    
 >◆ Provided creative copy to design team    
 ◆ Offered administrative support to upper level management: setting appointments and managing calendar    
 ◆ Daily use of Microsoft Office; Adobe Acrobat and Creative Suite, and Quickbooks     
