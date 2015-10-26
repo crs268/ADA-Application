@@ -40,46 +40,46 @@ Seattle Pacific University — Seattle, WA
 **Creative Manager/Developmental Editor**, 2014-2015   
 *Razorgirl Press* — Seattle, WA 
   Publishing exquisite prose, fantastical adventure, and vivid otherworlds     
->◆ Co-created publishing company with unique vision for new authors  
-◆ Established deadline calendar for authors and worked through plot, voice, and character development  
-◆ Organized group workshops for novels in progress  
-◆ Made lead aesthetic choices in regards to branding and book covers  
+>◆ Co-created publishing company with unique vision for new authors     
+◆ Established deadline calendar for authors and worked through plot, voice, and character development    
+◆ Organized group workshops for novels in progress     
+◆ Made lead aesthetic choices in regards to branding and book covers     
 
-Ricoh USA — Tempe, AZ
-Customer Biller, 2012-2013
-A Global technology company 
->◆ Utilized Oracle R12 and 11i to manage customer accounts
-◆ Troubleshot customer requests and solved customer issues with tenacity and efficiently
-◆ Collected meter readings from customers, meeting billing deadlines
-◆ Exhibited quality problem-solving and decision-making skills
+Ricoh USA — Tempe, AZ    
+Customer Biller, 2012-2013  
+A Global technology company    
+>◆ Utilized Oracle R12 and 11i to manage customer accounts   
+◆ Troubleshot customer requests and solved customer issues with tenacity and efficiently   
+◆ Collected meter readings from customers, meeting billing deadlines    
+◆ Exhibited quality problem-solving and decision-making skills    
 
-Visage Creative Business Services — Mesa, AZ
-Executive Assistant/Copywriter, 2011-2013
-Visual marketing with an emphasis on branding for businesses and custom graphic design
->◆ Provided creative copy to design team 
-◆ Offered administrative support to upper level management: setting appointments and managing calendar
-◆ Daily use of Microsoft Office; Adobe Acrobat and Creative Suite, and Quickbooks
-◆ Managed daily and monthly business taxes
+Visage Creative Business Services — Mesa, AZ   
+Executive Assistant/Copywriter, 2011-2013   
+Visual marketing with an emphasis on branding for businesses and custom graphic design    
+>◆ Provided creative copy to design team    
+◆ Offered administrative support to upper level management: setting appointments and managing calendar    
+◆ Daily use of Microsoft Office; Adobe Acrobat and Creative Suite, and Quickbooks     
+◆ Managed daily and monthly business taxes    
 
-Comfort Keepers of Flagstaff — Flagstaff, AZ
-Comfort Care Provider/Scheduler, 2009-2011
-Providers of in-home care to help maintain independent living 
->◆ Create schedules for a staff of more than 50 using custom scheduling software
-◆ Served as primary caregiver for clients with disabilities
-◆ Managed multi-line telephone for Comfort Keepers headquarters
-◆ Monitored well being of clients and kept care-team members apprised of client condition
+Comfort Keepers of Flagstaff — Flagstaff, AZ  
+Comfort Care Provider/Scheduler, 2009-2011  
+Providers of in-home care to help maintain independent living  
+>◆ Create schedules for a staff of more than 50 using custom scheduling software    
+◆ Served as primary caregiver for clients with disabilities  
+◆ Managed multi-line telephone for Comfort Keepers headquarters   
+◆ Monitored well being of clients and kept care-team members apprised of client condition   
 
-Seattle Pacific University- Lingua Arts and Literary Journal — Seattle, WA
-Editor-In-Chief, 2002-2005
->◆ University Arts and Literary Journal
-◆ Self-taught Adobe InDesign to create Lingua layout
-◆ Wrote and designed HTML newsletter
-◆ Supervised team of editors during meetings and event planning
-◆ Cultivated and directed a strong volunteer base 
+Seattle Pacific University- Lingua Arts and Literary Journal — Seattle, WA   
+Editor-In-Chief, 2002-2005  
+>◆ University Arts and Literary Journal   
+◆ Self-taught Adobe InDesign to create Lingua layout  
+◆ Wrote and designed HTML newsletter  
+◆ Supervised team of editors during meetings and event planning  
+◆ Cultivated and directed a strong volunteer base   
 
-Seattle Department of Neighborhoods — Seattle, WA
-Administrative Assistant, 2002-2005
->◆ Liaison between city government and citizens
-◆ Created HTML newsletter
-◆ Analyzed data from city research and created reports for meetings
-◆ Organized neighborhood support for park builds and local events
+Seattle Department of Neighborhoods — Seattle, WA  
+Administrative Assistant, 2002-2005   
+>◆ Liaison between city government and citizens  
+◆ Created HTML newsletter   
+◆ Analyzed data from city research and created reports for meetings   
+◆ Organized neighborhood support for park builds and local events   
