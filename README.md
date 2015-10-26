@@ -2,10 +2,10 @@
 8431 Wabash Ave. S., Seattle, WA 98118 ◆ (206) 371-4310    
 christinerenesmith@gmail.com.com ◆ [@xinerenesmith](https://twitter.com/xinerenesmith)   
 
-###Aspiring Developer  
+##Aspiring Developer  
 Proto-developer able to self-teach, learns best through immersion and kinesthetic means. Brings a diverse background of creative writing, visual design, and the practicality of the medical profession to augment her future coding skills. Excels as part of a team and aspires to be a leader by inspiring creativity and self confidence in those around her. 
 
-###Technical Toolbox     
+##Technical Toolbox     
 Languages:  
 >Conversational HTML   
   
@@ -13,7 +13,7 @@ Software Proficiency:
 >MS Office, Mac OSX, Apple ios8, Wordpress, Adobe InDesign,   
 Photoshop, Microsoft Excel, Oracle R12 and 11i  
 
-###Education
+##Education
 
 University of Washington, Bothell — Bothell, WA
 >MFA, Creative Writing and Poetics  Graduated 6/2015
@@ -24,7 +24,7 @@ COCONINO COMMUNITY COLLEGE — Flagstaff, AZ
 Seattle Pacific University — Seattle, WA
 >BA, English Literature and Creative Writing  Graduated 6/2005
 
-###Publications & Awards
+##Publications & Awards
 ◆ 491 Literary journal  
 *Neville, Says Bernard*,  2015  
 ◆ Widener University National Undergraduate Literary Journal  
@@ -34,7 +34,7 @@ Seattle Pacific University — Seattle, WA
 ◆ Young Illinois Poets Award   
 *Ground to Gain*, 1999
 
-###Professional Experience   
+##Professional Experience   
       
 #####Razorgirl Press — Seattle, WA 
 **Creative Manager/Developmental Editor**, 2014-2015   
