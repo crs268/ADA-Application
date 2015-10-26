@@ -2,10 +2,10 @@
 8431 Wabash Ave. S., Seattle, WA 98118 ◆ (206) 371-4310    
 christinerenesmith@gmail.com.com ◆ [@xinerenesmith](https://twitter.com/xinerenesmith)   
 
-#####Aspiring Developer  
+###Aspiring Developer  
 Proto-developer able to self-teach, learns best through immersion and kinesthetic means. Brings a diverse background of creative writing, visual design, and the practicality of the medical profession to augment her future coding skills. Excels as part of a team and aspires to be a leader by inspiring creativity and self confidence in those around her. 
 
-#####Technical Toolbox     
+###Technical Toolbox     
 Languages:  
 >Conversational HTML   
   
@@ -13,7 +13,7 @@ Software Proficiency:
 >MS Office, Mac OSX, Apple ios8, Wordpress, Adobe InDesign,   
 Photoshop, Microsoft Excel, Oracle R12 and 11i  
 
-#####Education
+###Education
 
 University of Washington, Bothell — Bothell, WA
 >MFA, Creative Writing and Poetics  Graduated 6/2015
@@ -24,7 +24,7 @@ COCONINO COMMUNITY COLLEGE — Flagstaff, AZ
 Seattle Pacific University — Seattle, WA
 >BA, English Literature and Creative Writing  Graduated 6/2005
 
-#####Publications & Awards
+###Publications & Awards
 ◆ 491 Literary journal  
 *Neville, Says Bernard*,  2015  
 ◆ Widener University National Undergraduate Literary Journal  
@@ -34,9 +34,9 @@ Seattle Pacific University — Seattle, WA
 ◆ Young Illinois Poets Award   
 *Ground to Gain*, 1999
 
-#####Professional Experience   
+###Professional Experience   
       
-Razorgirl Press — Seattle, WA 
+#####Razorgirl Press — Seattle, WA 
 **Creative Manager/Developmental Editor**, 2014-2015   
 *Publishing exquisite prose, fantastical adventure, and vivid otherworlds*       
 >◆ Co-created publishing company with unique vision for new authors     
@@ -44,7 +44,7 @@ Razorgirl Press — Seattle, WA
 ◆ Organized group workshops for novels in progress     
 ◆ Made lead aesthetic choices in regards to branding and book covers     
 
-Ricoh USA — Tempe, AZ    
+#####Ricoh USA — Tempe, AZ    
 **Customer Biller**, 2012-2013  
 *A Global technology company*    
 >◆ Utilized Oracle R12 and 11i to manage customer accounts   
@@ -52,7 +52,7 @@ Ricoh USA — Tempe, AZ
 ◆ Collected meter readings from customers, meeting billing deadlines    
 ◆ Exhibited quality problem-solving and decision-making skills    
 
-Visage Creative Business Services — Mesa, AZ   
+#####Visage Creative Business Services — Mesa, AZ   
 **Executive Assistant/Copywriter**, 2011-2013   
 *Visual marketing with an emphasis on branding for businesses and custom graphic design*    
 >◆ Provided creative copy to design team    
@@ -60,7 +60,7 @@ Visage Creative Business Services — Mesa, AZ
 ◆ Daily use of Microsoft Office; Adobe Acrobat and Creative Suite, and Quickbooks     
 ◆ Managed daily and monthly business taxes    
 
-Comfort Keepers of Flagstaff — Flagstaff, AZ  
+#####Comfort Keepers of Flagstaff — Flagstaff, AZ  
 **Comfort Care Provider/Scheduler**, 2009-2011  
 *Providers of in-home care to help maintain independent living*  
 >◆ Create schedules for a staff of more than 50 using custom scheduling software    
@@ -68,7 +68,7 @@ Comfort Keepers of Flagstaff — Flagstaff, AZ
 ◆ Managed multi-line telephone for Comfort Keepers headquarters   
 ◆ Monitored well being of clients and kept care-team members apprised of client condition   
 
-Seattle Pacific University- Lingua Arts and Literary Journal — Seattle, WA   
+#####Seattle Pacific University- Lingua Arts and Literary Journal — Seattle, WA   
 **Editor-In-Chief**, 2002-2005  
 *University Arts and Literary Journal*   
 >◆ Self-taught Adobe InDesign to create Lingua layout  
@@ -76,7 +76,7 @@ Seattle Pacific University- Lingua Arts and Literary Journal — Seattle, WA
 ◆ Supervised team of editors during meetings and event planning  
 ◆ Cultivated and directed a strong volunteer base   
 
-Seattle Department of Neighborhoods — Seattle, WA  
+#####Seattle Department of Neighborhoods — Seattle, WA  
 **Administrative Assistant**, 2002-2005   
 *Liaison between city government and citizens*  
 >◆ Created HTML newsletter   
