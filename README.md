@@ -34,19 +34,19 @@ Seattle Pacific University — Seattle, WA
 ◆ Young Illinois Poets Award   
 *Ground to Gain*, 1999
 
-#####Professional Experience  
-   
+#####Professional Experience   
+      
+Razorgirl Press — Seattle, WA 
 **Creative Manager/Developmental Editor**, 2014-2015   
-*Razorgirl Press* — Seattle, WA   
-  Publishing exquisite prose, fantastical adventure, and vivid otherworlds     
+*Publishing exquisite prose, fantastical adventure, and vivid otherworlds*       
 >◆ Co-created publishing company with unique vision for new authors     
 ◆ Established deadline calendar for authors and worked through plot, voice, and character development    
 ◆ Organized group workshops for novels in progress     
 ◆ Made lead aesthetic choices in regards to branding and book covers     
 
 Ricoh USA — Tempe, AZ    
-**Customer Biller, 2012-2013  
-A Global technology company    
+**Customer Biller**, 2012-2013  
+*A Global technology company*    
 >◆ Utilized Oracle R12 and 11i to manage customer accounts   
 ◆ Troubleshot customer requests and solved customer issues with tenacity and efficiently   
 ◆ Collected meter readings from customers, meeting billing deadlines    
